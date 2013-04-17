@@ -1,9 +1,15 @@
 # eloqua-request
 
+## Get the Package
+
+```bash
+$ npm install eloqua-request --save
+```
+
 ## Get the Code
 
 ```bash
-$ git clone git@git:scarney/eloqua-request.git
+$ git clone git@git:Eloqua/eloqua-request.git
 $ cd eloqua-request
 $ npm install
 ```
